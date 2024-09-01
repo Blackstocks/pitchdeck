@@ -35,7 +35,7 @@ function Home() {
     />
     <link
       crossOrigin="anonymous"
-      href="src/Canva-Clone/css/d861da3dda96ff07.ltr.css"
+      href="src/styles/Canva-Clone/css/d861da3dda96ff07.ltr.css"
       rel="stylesheet"
     />
     <style
