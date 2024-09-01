@@ -4220,7 +4220,7 @@ function Home() {
     />
     <script
       nonce=""
-      src="js/7.16.0.min.js"
+      src="src/styles/Canva-Clone/js/7.16.0.min.js.js"
     />
     <script
       dangerouslySetInnerHTML={{
@@ -4232,36 +4232,36 @@ function Home() {
     <script
       crossOrigin="anonymous"
       nonce=""
-      src="js/bd461dd9109a6336.strings.js"
+      src="src/styles/Canva-Clone/js/bd461dd9109a6336.strings.js"
     />
     <script
       crossOrigin="anonymous"
       nonce=""
-      src="js/bb9411c272ea330d.en-GB.js"
-    />
-    <script
-      crossOrigin="anonymous"
-      defer
-      nonce=""
-      src="js/91bc86c51b5b0769.runtime.js"
+      src="src/styles/Canva-Clone/js/bb9411c272ea330d.en-GB.js"
     />
     <script
       crossOrigin="anonymous"
       defer
       nonce=""
-      src="js/02f2e9d3bdc90360.vendor.js"
+      src="src/styles/Canva-Clone/js/91bc86c51b5b0769.runtime.js"
     />
     <script
       crossOrigin="anonymous"
       defer
       nonce=""
-      src="js/8eee952243355752.vendor.js"
+      src="src/styles/Canva-Clone/js/02f2e9d3bdc90360.vendor.js"
     />
     <script
       crossOrigin="anonymous"
       defer
       nonce=""
-      src="js/72352fd7901cd809.js"
+      src="src/styles/Canva-Clone/js/8eee952243355752.vendor.js"
+    />
+    <script
+      crossOrigin="anonymous"
+      defer
+      nonce=""
+      src="src/styles/Canva-Clone/js/72352fd7901cd809.js"
     />
     <script
       dangerouslySetInnerHTML={{
