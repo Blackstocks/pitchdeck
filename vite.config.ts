@@ -5,4 +5,10 @@ import tsconfigPaths from "vite-tsconfig-paths"
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), tsconfigPaths()],
+  build: {
+    sourcemap: false, // Disable source maps
+  },
+  css: {
+    devSourcemap: false, // Disable source maps for CSS in development
+  },
 })
